@@ -12,6 +12,7 @@
 body{
     margin: 0px;
     background-color: #f7f2f2;
+    background-image: url('main2.jpg');
 }
 
 .grid img{
@@ -29,7 +30,6 @@ body{
 }
 
 .bodyimg{
-    border-radius: 20px;
-    background-color: white;
     font-family: sans-serif;
+    color: #c0c0c0;
 }
